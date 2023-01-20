@@ -1,0 +1,5 @@
+altura: 1.2m  |  tempo: 0.51s  |  desvio padrão: 0.02s
+altura: 1.4m  |  tempo: 0.53s  |  desvio padrão: 0.02s
+altura: 1.6m  |  tempo: 0.60s  |  desvio padrão: 0.02s
+altura: 1.8m  |  tempo: 0.62s  |  desvio padrão: 0.01s
+altura: 2m    |  tempo: 0.65s  |  desvio padrão: 0.02s
